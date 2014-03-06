@@ -9,7 +9,7 @@ import scala.Some
 
 object Main extends App {
 
-  val gpx : GPX = GPXDecoder.decodeFromFile("res/bokr.gpx")
+  val gpx : GPX = GPXDecoder.decodeFromFile("res/full.gpx")
 
   println(gpx)
 
