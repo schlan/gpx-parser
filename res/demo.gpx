@@ -12,10 +12,7 @@
     </link>
   <author>
    <name>Flippy</name>
-   <email>
-    <id>flippy</id>
-    <domain>häns.at</domain>
-   </email>
+   <email id="flippy" domain="hans.at" />
    <link href="http://www.google.at">
     <text>Google</text>
     <type>Homepage</type>
