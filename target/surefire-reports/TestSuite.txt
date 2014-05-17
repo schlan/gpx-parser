@@ -1,0 +1,13 @@
+Discovery starting.
+Discovery completed in 112 milliseconds.
+Run starting. Expected test count is: 4
+ComplexTypeDecoderTest:
+- Test: Email Decoder (12 milliseconds)
+- Test: Copyright Decoder (1 millisecond)
+- Test: Link Decoder (0 milliseconds)
+- Test: Person Decoder (1 millisecond)
+Run completed in 192 milliseconds.
+Total number of tests run: 4
+Suites: completed 2, aborted 0
+Tests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0
+All tests passed.
